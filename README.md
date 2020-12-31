@@ -34,7 +34,7 @@ gamelist.blade.php - a page shows a list of game to rent
 rentpage.blade.php - a page shows all rental details  
 
 **ERD DIAGRAM**
-https://github.com/SyahrilDanial/Final-Project-Web-App/blob/main/ERD.png
+![](Final-Project-Web-App/ERD.png)
 
 ## A SEQUENCE	DIAGRAM	TO REPRESENT THE INTERACTION	OF THE	WEB	APPLICATION  
 
