@@ -27,10 +27,10 @@ GameRental.php - To create tables in the database
 rentController.php - To process every data input by the user and send to view page
 
 **VIEWS**  
-index.blade.php - Index page of the web application
-signup.blade.php - signup page of the web application
-gamelist.blade.php - a page shows a list of game to rent
-rentpage.blade.php - a page shows all rental details
+index.blade.php - Index page of the web application  
+signup.blade.php - signup page of the web application  
+gamelist.blade.php - a page shows a list of game to rent  
+rentpage.blade.php - a page shows all rental details  
 
 ## A sequence	diagram	to	represent	the	interaction	of	the	web	application
 
