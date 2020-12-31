@@ -16,8 +16,7 @@ before the rental expiration period, he or she will be fined accordingly.
 ## FEATURES AND FUNCTIONALITY
 
 ## MODEL, VIEWS, CONTROLLER AND DATABASE ERD WITH ONE TO MANY RELATIONSHIP
-![alt text](https://github.com/SyahrilDanial/Final-Project-Web-App
-/blob/main/Capture.JPG?raw=true)
+![alt text](https://github.com/SyahrilDanial/Final-Project-Web-App/main/Capture.JPG?raw=true)
 
 ## A sequence	diagram	to	represent	the	interaction	of	the	web	application
 
