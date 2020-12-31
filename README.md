@@ -20,13 +20,13 @@ before the rental expiration period, he or she will be fined accordingly.
 4. game availability check
 
 ## MODEL, VIEWS, CONTROLLER AND DATABASE ERD WITH ONE TO MANY RELATIONSHIP
-**MODEL**
+**MODEL**  
 GameRental.php - To create tables in the database
 
-**CONTROLLER**
+**CONTROLLER**  
 rentController.php - To process every data input by the user and send to view page
 
-**VIEWS**
+**VIEWS**  
 index.blade.php - Index page of the web application
 signup.blade.php - signup page of the web application
 gamelist.blade.php - a page shows a list of game to rent
