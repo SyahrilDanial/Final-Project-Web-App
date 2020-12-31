@@ -16,3 +16,5 @@ As the project title suggests, this web application allows the user to rent vide
 ## A sequence	diagram	to	represent	the	interaction	of	the	web	application
 
 ## REFERENCES
+
+- http://www.commodityrentals.com/videogames.php
