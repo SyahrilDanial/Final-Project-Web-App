@@ -20,3 +20,4 @@ As the project title suggests, this web application allows the user to rent vide
 
 - http://www.commodityrentals.com/videogames.php
 - https://www.gamefly.com/games
+- https://i.stack.imgur.com/BbaRt.jpg
