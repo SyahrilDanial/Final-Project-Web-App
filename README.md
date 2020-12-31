@@ -3,8 +3,11 @@
 ## Project Title : Online Game Rental
 
 ## INTRODUCTION
-As the project title suggests, this web application allows the user to rent video games online. 
-
+As the project title suggests, this web application allows the user to rent video games online. There are many video games  
+available for user to select from. The selection of video games can be varied based on the platform, whether it is an console  
+exclusive and PC. The user need to create an account in order to rent video games available in the web app and each rent will  
+be recorded in the web app to keep track with the rental expiration period and if the user didn't manage to give the game back  
+before the rental expiration period, he or she will be fined accordingly. 
 ## OBJECTIVE
 1. Can allow user to rent one kind of online games at the time.
 2. User can have experience to play various genre of games.
