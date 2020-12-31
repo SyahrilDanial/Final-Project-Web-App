@@ -3,6 +3,7 @@
 ## Project Title : Online Game Rental
 
 ## INTRODUCTION
+As the project title suggests, this web application allows the user to rent video games online. 
 
 ## OBJECTIVE
 
