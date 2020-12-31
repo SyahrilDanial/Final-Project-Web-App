@@ -8,6 +8,7 @@ As the project title suggests, this web application allows the user to rent vide
 ## OBJECTIVE
 1. Can allow user to rent one kind of online games at the time.
 2. User can have experience to play various genre of games.
+3. To give alternative for gamer who want sell their games.
 
 ## FEATURES AND FUNCTIONALITY
 
