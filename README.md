@@ -14,6 +14,10 @@ before the rental expiration period, he or she will be fined accordingly.
 3. To give alternative for gamer a chance to play online games.
 
 ## FEATURES AND FUNCTIONALITY
+1. Signup, Login and logout
+2. User can rent video games
+3. User can give ratings and comments on the rented games
+4. game availability check
 
 ## MODEL, VIEWS, CONTROLLER AND DATABASE ERD WITH ONE TO MANY RELATIONSHIP
 ![alt text](https://github.com/SyahrilDanial/Final-Project-Web-App/main/Capture.JPG?raw=true)
