@@ -33,7 +33,7 @@ signup.blade.php - signup page of the web application
 gamelist.blade.php - a page shows a list of game to rent  
 rentpage.blade.php - a page shows all rental details  
 
-**Database**
+**Database**  
 ![](ERD.png)
 
 **ERD DIAGRAM**
