@@ -42,7 +42,7 @@ rentpage.blade.php - a page shows all rental details
 ## A SEQUENCE	DIAGRAM	TO REPRESENT THE INTERACTION	OF THE	WEB	APPLICATION  
 
 **SEQUENCE DIAGRAM**
-![](ERD.png)
+![](sequencediagram.JPG)
 
 ## REFERENCES
 
