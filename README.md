@@ -9,7 +9,7 @@ exclusive and PC. The user need to create an account in order to rent video game
 be recorded in the web app to keep track with the rental expiration period and if the user didn't manage to give the game back  
 before the rental expiration period, he or she will be fined accordingly. 
 ## OBJECTIVE
-1. Can allow user to rent one kind of online games at the time.
+1. Can allow user to rent multiple kind of online games at the time.
 2. User can have experience to play various genre of games.
 3. To give alternative for gamer a chance to play online games.
 
