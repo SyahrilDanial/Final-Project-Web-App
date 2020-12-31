@@ -32,7 +32,7 @@ signup.blade.php - signup page of the web application
 gamelist.blade.php - a page shows a list of game to rent  
 rentpage.blade.php - a page shows all rental details  
 
-## A sequence	diagram	to	represent	the	interaction	of	the	web	application
+## A SEQUENCE	DIAGRAM	TO REPRESENT THE INTERACTION	OF THE	WEB	APPLICATION  
 
 ## REFERENCES
 
