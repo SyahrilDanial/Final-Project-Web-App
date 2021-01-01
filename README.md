@@ -36,8 +36,6 @@ rentpage.blade.php - a page shows all rental details
 **Database**  
 ![](ERD.png)
 
-**ERD DIAGRAM**
-<img src="Final-Project-Web-App/ERD.png">
 
 ## A SEQUENCE	DIAGRAM	TO REPRESENT THE INTERACTION	OF THE	WEB	APPLICATION  
 
