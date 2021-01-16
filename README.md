@@ -72,11 +72,14 @@ been rented will be prompted as unavailable.
  
 
 **Database**  
+The database used in this project is gamerental.sql. The database consists of staff details,games details and user  
+details. The users need to register first and then log in to the system. The emails and password from the user is  
+saved in the database.  
 ![](ERD.png)
 
 
 ## A SEQUENCE	DIAGRAM	TO REPRESENT THE INTERACTION	OF THE	WEB	APPLICATION  
-
+The ERD diagram shows how the system is connected by one to many relationships.  
 **SEQUENCE DIAGRAM**
 ![](sequencediagram.JPG)
 
