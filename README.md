@@ -87,4 +87,13 @@ The ERD diagram shows how the system is connected by one to many relationships.
 
 - http://www.commodityrentals.com/videogames.php
 - https://www.gamefly.com/games
-- https://i.stack.imgur.com/BbaRt.jpg
+- https://i.stack.imgur.com/BbaRt.jpg    
+
+## WORK DELEGATIONS
+
+| Name                               | Task         |
+|------------------------------------|--------------|
+| AHMAD SYAHRIL DANIAL BIN CHE ZAINAL| Staff page   |
+| MUHAMMAD IZZUDDIN BIN SUHAILI      | User page    |
+| FAIQ SHAHMY BIN SHALIZAM           | Welcome page |
+
