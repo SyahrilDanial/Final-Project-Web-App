@@ -8,30 +8,68 @@ There are many video games available for user to select from. The selection of v
 be varied based on the platform, whether it is an console exclusive and PC. The user need to  
 create an account in order to rent video games available in the web app and each rent will be  
 recorded in the web app to keep track with the rental expiration period and if the user didn't  
-manage to give the game back before the rental expiration period, he or she will be fined accordingly. 
+manage to give the game back before the rental expiration period, he or she will be fined accordingly.  
 ## OBJECTIVE
-1. Can allow user to rent multiple kind of online games at the time.
-2. User can have experience to play various genre of games.
-3. To give alternative for gamer a chance to play online games.
+As other rental systems we know, there are many and various different styles and purposes. For  
+our objective for this project firstly, we want to allow users to rent multiple kinds of  their  
+favourite video games from different platforms. By this user can have an experience to play various  
+kinds of games from different platform.Moreover, like other rental systems, it can help users to  
+have other choices by providing this alternative especially for gamers a chance to play different  
+kinds of games they like. 
 
 ## FEATURES AND FUNCTIONALITY
-1. Signup, Login and logout
-2. User can rent video games
-3. User can give ratings and comments on the rented games
-4. game availability check
+In Online game rental,the features and functionality provided are firstly, Sign Up for first time  
+users, then they can Login for users that have already registered and Logout. After the user login  
+into the system, it will navigate them to the page that shows a  list of  various types of video  
+games available with different types of platform , by then users can choose whatever games they like  
+and click the rent button. Furthermore, users can give ratings and comments on the game they rented  
+so it will be referenced for other users before they want to rent the game. Also it will help admin  
+to make an improvement about the features in the system regarding the feedback that the user leaves  
+in the comment.
+
 
 ## MODEL, VIEWS, CONTROLLER AND DATABASE ERD WITH ONE TO MANY RELATIONSHIP
 **MODEL**  
-GameRental.php - To create tables in the database
+Model for this web application consists of 2 parts, which is staff.php and User.php. Staff.php handles  
+the insertion of game details entered by staff and then, the game list will be displayed on the user  
+page for the user to rent their favourite games. As for the User.php model, this model handles the  
+registration data of the new user as well as login input. Every data entered by the user will be stored  
+inside the database in order for the web application to fetch the data every time when the user logs into  
+the web application.  
+
+The creation of the model file comes with the migration file, where we can create tables inside the database.  
+Inside the file, table staff was created in order to allow staff to store game details in the web application.  
+As for the user table, the table was created together with authentication scaffolding. This table allows the  
+system to store user account data for the purpose of registration and login.
+
 
 **CONTROLLER**  
-rentController.php - To process every data input by the user and send to view page
+Controller for this web application consists of 2 parts which is staffController.php is a page that handles  
+all incoming requests related to staff, including showing, creating, updating, and deleting staff. The details  
+of the games can be created in this controller and updated. The staff can also delete the games or details from  
+the system. Home.controller is  a page that handles all incoming requests related to users, including showing,  
+creating, updating, and deleting users. Users can create their profile by registering. Users also can add the  
+details of the rental for the games they want to rent.
 
 **VIEWS**  
-index.blade.php - Index page of the web application  
-signup.blade.php - signup page of the web application  
-gamelist.blade.php - a page shows a list of game to rent  
-rentpage.blade.php - a page shows all rental details  
+The base view for the web application is base.blade.php is a page that provides UI like bootstrap and css to show  
+on every other page. This page will support all other pages for the UI of the system.  
+
+*STAFF*  
+The views of this staff web application consists of 4 parts which is index.blade.php is a page for staff that  
+displays the list of games and adds new game details. Create.blade.php is a page for the staff to add new games  
+to the system. The details of games that were added are name, platform, description and price. Edit.blade.php is  
+a page for the staff to edit the details of the games that were added to the system. Show.blade.php is a page for  
+staff to display a list of  the game details that have already been created. This page will show to the user the  
+list of games that were added by the staff.  
+ 
+*USER*  
+The user view for the web application consists of 2 parts which is home.blade.php shows a list of games to rent in  
+the system. The user can choose the games they want to rent in the system. The user needs to click the rent button  
+and will be redirected to create.blade.php. Create.blade.php is a page for the user to key in the rental details  
+like the dates and time. All the information will be saved in the database and will be updated. The games that have  
+been rented will be prompted as unavailable.    
+ 
 
 **Database**  
 ![](ERD.png)
