@@ -79,7 +79,9 @@ saved in the database.
 
 
 ## A SEQUENCE	DIAGRAM	TO REPRESENT THE INTERACTION	OF THE	WEB	APPLICATION  
-The ERD diagram shows how the system is connected by one to many relationships.  
+This is the sequence diagram for this web application. As shown in the figure below, the sequence consists of a user  
+sign up and login attempt, followed by choosing a game to rent and then proceed to entering rent details and payment  
+details.   
 **SEQUENCE DIAGRAM**
 ![](sequencediagram.JPG)
 
